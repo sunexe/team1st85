@@ -1,0 +1,12 @@
+{
+    "photos": [
+        "team1.jpg",
+        "team2.jpg",
+        "team3.jpg",
+        "team4.jpg"
+    ],
+    "videos": [
+        "https://www.youtube.com/watch?v=teamvideo1",
+        "https://www.youtube.com/watch?v=teamvideo2"
+    ]
+}

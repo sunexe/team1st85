@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>汕头一中八五足球队</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zhong&display=swap" rel="stylesheet">
+    <script>
+        window.onload = function() {
+            const styles = document.styleSheets;
+            if (styles.length === 0) {
+                console.error('CSS未能正确加载');
+            }
+        }
+    </script>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="images/1st85logo.png" alt="八五足球队">
+                <h1>汕头一中八五足球队</h1>
+                <!-- <p class="slogan"> 因为热爱所以坚持 </p> -->
+            </div>
+            <ul>
+                <li><a href="members.html">球队成员</a></li>
+                <li><a href="history.html">关于我们</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <button class="nav-btn next-btn">&gt;</button>
+            <button class="nav-btn prev-btn">&lt;</button>
+            <div class="slider"></div>
+            <div class="match-info"></div>
+        </section>
+
+        <section class="matches-grid">
+            <!-- 比赛图片网格将通过JavaScript动态加载 -->
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="contact">
+                <h3>联系我们</h3>
+                <p>电话：+86 123 4567 8900</p>
+                <p>邮箱：st85football@example.com</p>
+            </div>
+            <div class="links">
+                <h3>友情链接</h3>
+                <a href="#">金田茶铺</a>
+                <a href="#">正典酒庄</a>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>© 2019-2025 汕头一中八五足球队 版权所有</p>
+            <p>粤ICP备xxxxxxxx号</p>
+        </div>
+    </footer>
+    <script src="js/main.js"></script>
+</body>
+</html>
