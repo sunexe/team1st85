@@ -1,6 +1,6 @@
 async function loadMembers() {
     try {
-        const response = await fetch('/data/members.json');
+        const response = await fetch('data/members.json');
         const data = await response.json();
         renderMembers(data.members);
     } catch (error) {
