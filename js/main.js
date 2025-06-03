@@ -4,7 +4,7 @@ let currentIndex = 0;
 // 加载赛事数据
 async function loadMatchData() {
     try {
-        const response = await fetch('/data/matches.json');
+        const response = await fetch('data/matches.json');
         const data = await response.json();
         matches = data.matches;
         // 设置初始索引为最新赛事
