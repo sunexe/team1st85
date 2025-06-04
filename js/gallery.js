@@ -41,8 +41,20 @@ const teamPhotos = [
         caption: '2019.8.3活动合影八'
     },
     {
-        src: 'team/sun_0142.jpg',
-        caption: '周末训练日'
+        src: 'team/h11.jpg',
+        caption: '2019.8.3活动合影'
+    },
+    {
+        src: 'team/h12.jpg',
+        caption: '2019.8.3活动合影'
+    },
+    {
+        src: 'team/h13.jpg',
+        caption: '2019.8.3活动合影八'
+    },
+    {
+        src: 'team/h14.jpg',
+        caption: '2019.8.3活动合影八'
     },
     {
         src: 'team/301.png',
