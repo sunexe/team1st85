@@ -52,12 +52,12 @@
         },
         {
             "name": "周末常规训练赛",
-            "date": "2024-2-10",
+            "date": "2024-2-12",
             "location": "汕头体育场",
             "weather": "晴朗",
             "players": 14,
             "description": "精彩的周末对决",
-            "imageUrl": "matches/2024/20240210合影.JPG",
+            "imageUrl": "matches/2024/20240212合影.JPG",
             "videoUrl": ""
         },
         {
@@ -72,12 +72,12 @@
         },
         {
             "name": "周末常规训练赛",
-            "date": "2024-2-24",
+            "date": "2024-2-25",
             "location": "汕头体育场",
             "weather": "晴朗",
             "players": 14,
             "description": "精彩的周末对决",
-            "imageUrl": "matches/2024/20240224合影.JPG",
+            "imageUrl": "matches/2024/20240225合影.JPG",
             "videoUrl": ""
         },
         {
@@ -132,16 +132,6 @@
         },
         {
             "name": "周末常规训练赛",
-            "date": "2024-4-6",
-            "location": "汕头体育场",
-            "weather": "晴朗",
-            "players": 14,
-            "description": "精彩的周末对决",
-            "imageUrl": "matches/2024/20240406合影.JPG",
-            "videoUrl": ""
-        },
-        {
-            "name": "周末常规训练赛",
             "date": "2024-4-13",
             "location": "汕头体育场",
             "weather": "晴朗",
@@ -178,16 +168,6 @@
             "players": 14,
             "description": "精彩的周末对决",
             "imageUrl": "matches/2024/20240504合影.JPG",
-            "videoUrl": ""
-        },
-        {
-            "name": "周末常规训练赛",
-            "date": "2024-5-11",
-            "location": "汕头体育场",
-            "weather": "晴朗",
-            "players": 14,
-            "description": "精彩的周末对决",
-            "imageUrl": "matches/2024/20240511合影.JPG",
             "videoUrl": ""
         },
         {
@@ -272,12 +252,12 @@
         },
         {
             "name": "周末常规训练赛",
-            "date": "2024-7-13",
+            "date": "2024-7-20",
             "location": "汕头体育场",
             "weather": "晴朗",
             "players": 14,
             "description": "精彩的周末对决",
-            "imageUrl": "matches/2024/20240713合影.JPG",
+            "imageUrl": "matches/2024/20240720大合影.JPG",
             "videoUrl": ""
         },
         {
@@ -287,7 +267,7 @@
             "weather": "晴朗",
             "players": 14,
             "description": "精彩的周末对决",
-            "imageUrl": "matches/2024/20240720合影.JPG",
+            "imageUrl": "matches/2024/20240720小合影.JPG",
             "videoUrl": ""
         },
         {
@@ -311,13 +291,23 @@
             "videoUrl": ""
         },
         {
-            "name": "周末常规训练赛",
+            "name": "与广州体院联队友谊赛",
             "date": "2024-8-10",
-            "location": "汕头体育场",
+            "location": "南滨体育场",
             "weather": "晴朗",
-            "players": 14,
+            "players": 20,
             "description": "精彩的周末对决",
             "imageUrl": "matches/2024/20240810合影.JPG",
+            "videoUrl": ""
+        },
+        {
+            "name": "与广州体院联队友谊赛",
+            "date": "2024-8-10",
+            "location": "南滨体育场",
+            "weather": "晴朗",
+            "players": 20,
+            "description": "精彩的周末对决",
+            "imageUrl": "matches/2024/20240810大合影.JPG",
             "videoUrl": ""
         },
         {
@@ -362,16 +352,6 @@
         },
         {
             "name": "周末常规训练赛",
-            "date": "2024-9-14",
-            "location": "汕头体育场",
-            "weather": "晴朗",
-            "players": 14,
-            "description": "精彩的周末对决",
-            "imageUrl": "matches/2024/20240914合影.JPG",
-            "videoUrl": ""
-        },
-        {
-            "name": "周末常规训练赛",
             "date": "2024-9-21",
             "location": "汕头体育场",
             "weather": "晴朗",
@@ -402,22 +382,32 @@
         },
         {
             "name": "周末常规训练赛",
-            "date": "2024-10-12",
+            "date": "2024-10-13",
             "location": "汕头体育场",
             "weather": "晴朗",
             "players": 14,
             "description": "精彩的周末对决",
-            "imageUrl": "matches/2024/20241012合影.JPG",
+            "imageUrl": "matches/2024/20241013合影.JPG",
             "videoUrl": ""
         },
         {
-            "name": "周末常规训练赛",
+            "name": "赴梅州友谊赛",
             "date": "2024-10-19",
-            "location": "汕头体育场",
+            "location": "梅州中学体育场",
             "weather": "晴朗",
-            "players": 14,
+            "players": 18,
             "description": "精彩的周末对决",
-            "imageUrl": "matches/2024/20241019合影.JPG",
+            "imageUrl": "matches/2024/20241019合影1.JPG",
+            "videoUrl": ""
+        },
+        {
+            "name": "赴梅州友谊赛",
+            "date": "2024-10-19",
+            "location": "梅州中学体育场",
+            "weather": "晴朗",
+            "players": 18,
+            "description": "精彩的周末对决",
+            "imageUrl": "matches/2024/20241019合影2.JPG",
             "videoUrl": ""
         },
         {

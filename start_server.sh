@@ -1,2 +1,3 @@
-cd /Users/mac/Documents/GitHub/team1st85
+#!/bin/bash
+cd "$(dirname "$0")"
 python3 -m http.server 8080
