@@ -50,11 +50,11 @@ const teamPhotos = [
     },
     {
         src: 'team/h13.jpg',
-        caption: '2019.8.3活动合影八'
+        caption: '2019.8.3活动合影'
     },
     {
         src: 'team/h14.jpg',
-        caption: '2019.8.3活动合影八'
+        caption: '2019.8.3活动合影'
     },
     {
         src: 'team/301.png',
