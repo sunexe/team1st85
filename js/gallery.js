@@ -88,7 +88,7 @@ const teamPhotos = [
         src: 'team/6班.jpg',
         caption: '青葱岁月：6班集体照'
     }
-    // 可以继续添加更多照片
+    // 可以继续添加更多照片  
 ];
 
 // 创建Lightbox组件
