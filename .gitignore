@@ -6,38 +6,3 @@ package-lock.json
 .DS_Store
 Thumbs.db
 desktop.ini
-
-# Media files
-/matches/*
-!/matches/.gitkeep
-/team/*
-!/team/.gitkeep
-/videos/*
-!/videos/.gitkeep
-/members/*
-!/members/.gitkeep
-
-# Large binary files
-*.mp4
-*.mov
-*.avi
-*.wmv
-*.flv
-*.mkv
-
-# Archives
-*.zip
-*.rar
-*.7z
-*.tar.gz
-*.tgz
-
-# Design files
-*.psd
-*.ai
-*.eps
-*.tiff
-
-# IDE
-.idea/
-.vscode/
