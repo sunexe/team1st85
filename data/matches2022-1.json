@@ -1,0 +1,14 @@
+{
+    "matches": [
+        {
+            "name": "周末常规训练赛",
+            "date": "2022-12-31",
+            "location": "汕头体育场",
+            "weather": "晴朗",
+            "players": 14,
+            "description": "精彩的周末对决",
+            "imageUrl": "matches/2022/20220101.jpg",
+            "videoUrl": ""
+        }
+    ]
+}

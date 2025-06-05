@@ -352,6 +352,16 @@
         },
         {
             "name": "周末常规训练赛",
+            "date": "2024-9-16",
+            "location": "夏桂埔足球场",
+            "weather": "晴朗",
+            "players": 14,
+            "description": "精彩的周末对决",
+            "imageUrl": "matches/2024/20240916合影.JPG",
+            "videoUrl": ""
+        },
+        {
+            "name": "周末常规训练赛",
             "date": "2024-9-21",
             "location": "夏桂埔足球场",
             "weather": "晴朗",
