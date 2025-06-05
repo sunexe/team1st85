@@ -64,7 +64,7 @@ function loadMatchesGrid() {
         <div class="match-card" data-index="${index}">
             <img src="${match.imageUrl}" alt="${match.name}">
             <div class="match-card-info">
-                <h2>${match.name}</h2>
+                <h3>${match.name}</h3>
                 <p class="match-date">${match.date}</p>
             </div>
         </div>
