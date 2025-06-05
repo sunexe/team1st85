@@ -168,6 +168,7 @@ main {
     overflow: hidden;
     aspect-ratio: 1;
     transition: transform 0.3s ease;
+    cursor: pointer;
 }
 
 .match-card:hover {
