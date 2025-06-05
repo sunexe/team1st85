@@ -164,7 +164,7 @@ main {
 
 .match-card {
     position: relative;
-    /*border-radius: 12px;*/
+    border-radius: 4px;
     overflow: hidden;
     aspect-ratio: 1;
     transition: transform 0.3s ease;
@@ -204,6 +204,7 @@ main {
     color: rgb(0, 0, 0);
     text-decoration: none;
     margin-top: 8px;
+    border-radius: 4px;
 }
 
 .video-link:hover {
@@ -473,6 +474,7 @@ footer {
     cursor: pointer;
     z-index: 10;
     transition: background 0.3s ease;
+    
 }
 
 .nav-btn:hover {
@@ -495,6 +497,7 @@ footer {
     display: flex;
     gap: 10px;
     flex-wrap: wrap;
+    border-radius: 4px;
 }
 
 .video-links a {
@@ -584,7 +587,7 @@ footer {
 .year-link {
     display: inline-block;
     padding: 10px 20px;
-    margin: 0 10px;
+    margin: 10px 10px;
     color: #333;
     text-decoration: none;
     border: 1px solid #ddd;
